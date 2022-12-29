@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-ENow editing on update-readme branch
-
-Update locally
+Updates made on master on GitHub before rebase
